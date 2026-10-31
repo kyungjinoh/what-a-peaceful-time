@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: big rock
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 3873779795923698762, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: 4234963899626850703, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: 7161343671226081534, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: -4535748436077241286, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: -793005186328604117, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: -6944550090128911867, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: 4898973042930983391, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  - {fileID: 1934853596464152854, guid: 169e3284502b744458a2337216f8b2ad, type: 3}
+  m_MinSpeed: 9
+  m_MaxSpeed: 9
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
